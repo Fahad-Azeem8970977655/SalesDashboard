@@ -1,2 +1,19 @@
-# SalesDashboard
-This Power BI project models a real business scenario for aspiring Data Analysts. It focuses on a computer hardware company that needs real-time sales insights to stay competitive. The Sales Director uses this dashboard to understand performance and support data-driven decisions.
+# 📊 Power BI Sales Dashboard
+
+This repository contains a Power BI dashboard named **Sales_Dashboard.pbix**, designed to analyze and visualize sales performance across markets, customers, and products.
+
+---
+
+## 🚀 Overview
+
+The dashboard provides insights into:
+
+- Total revenue and sales quantity
+- Sales performance by market
+- Revenue breakdown by customers
+- Year-wise and date-wise sales trends
+- Filters for dynamic and interactive analysis
+
+This dashboard helps stakeholders understand top-performing markets, customer contribution, and sales trends for better decision-making.
+
+
